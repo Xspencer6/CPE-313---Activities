@@ -22,4 +22,17 @@ Hello, world! I'm Spencer Almodiel, I have a passion in coding since I am curiou
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="120" hight="70">
 </br>
 
+## Contact Me :
+
+<p>
+</br>
+<a href="mailto:qmsealmodiel@tip.edu.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://steamcommunity.com/id/jspencer/">
+  <img align="left" alt="Steam" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</br>
+</br>
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xspencer6&theme=radical)
