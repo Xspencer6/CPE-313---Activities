@@ -6,8 +6,8 @@ Hello, world! I'm Spencer Almodiel, I have a passion in coding since I am curiou
 ..* Botting (during freetime)
 
 ## Hobbies: 
-..* League of Legends (when I want to be mentally challenged)
-..* Currently binge-watching the walking dead
-..* Reading manga/manhwa 
+- League of Legends (when I want to be mentally challenged)
+- Currently binge-watching the walking dead
+- Reading manga/manhwa 
 
-![Github Stats] (https://github-readme-stasts.vercel.app/api username=Xspencer6&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Xspencer6&theme=radical)
